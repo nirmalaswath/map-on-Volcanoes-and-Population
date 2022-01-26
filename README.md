@@ -1,4 +1,4 @@
-# map-on-Volcanoes-ans-Polulation
+# map-on-Volcanoes-and-Polulation
 
 I am just beginning to learn python.
 This is my first project it shows map of the world.
